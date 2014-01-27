@@ -1,3 +1,6 @@
+# SJC GUEST DINNER SIGN DOWN AUTOMATOR
+# by ELIOT BALL  2014
+
 import random
 
 # Load the hat file into a memory
