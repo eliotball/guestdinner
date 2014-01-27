@@ -1,7 +1,7 @@
 Guest Dinner Sign Down
 ======================
 
-Run this program in the same folder as a file called `hat.txt` like this:
+Run [this program](../master/signdown.py) in the same folder as a file called `hat.txt` like this:
 
 ```
 5
