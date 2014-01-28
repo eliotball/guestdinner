@@ -3,7 +3,7 @@
 
 import random
 
-# Load the hat file into a memory
+# Load the hat file into memory
 f = open("hat.txt", "r")
 lines = f.readlines()
 f.close()
